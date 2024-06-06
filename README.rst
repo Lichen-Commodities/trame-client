@@ -9,7 +9,7 @@ trame-client is the generic single page application that come with `trame <https
 trame-client provides the infrastructure on the client-side (browser) to connect to a trame server, synchronize
 its state with the server, make method call, load dynamically components and feed a dynamic template provided by the server.
 
-This package is not supposed to be used by itself but rather should come as a dependency of **trame**.
+This package is not supposed to be used by itsel but rather should come as a dependency of **trame**.
 For any specificity, please refer to `the trame documentation <https://kitware.github.io/trame/>`_.
 
 
