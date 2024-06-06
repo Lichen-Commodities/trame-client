@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v3.1.1 (2024-06-06)
+
+### Fix
+
+* Test ([`d209a07`](https://github.com/Lichen-Commodities/trame-client/commit/d209a078af6eb7b64bbd37829b7e3dcb96912713))
+
 ## v3.1.0 (2024-05-31)
 
 ### Feature
